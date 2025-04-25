@@ -38,7 +38,7 @@
 
 ### 🧑‍💼 About Me
 
-- 👨‍🎓 BTech CSE Graduate from IIT BHU  
+- 👨‍🎓 BTech CSE Graduate 
 - 🛠 Built 30+ end-to-end websites  
 - 🏆 Multiple Hackathon Winner  
 - 🌐 Exploring zkSync, Optimism, and Solana  
