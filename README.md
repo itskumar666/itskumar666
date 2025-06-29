@@ -5,7 +5,7 @@
 
 ### 🔨 Projects I'm Building
 
-- 🏠 **[RealEstateFi](https://github.com/itskumar666/realestatefi)**  
+- 🏠 **[Real World Asset Tokenisation](https://github.com/itskumar666/RWA_Tokenisation)**  
   Tokenized Real Estate meets DeFi lending. Property-backed fractional tokens, yield, and peer-to-peer loans—all on-chain.
 
 - 🧾 **Fiverr Alternative (Web3)**  
